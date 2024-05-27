@@ -16,6 +16,8 @@ public:
                 q.push(abs(a-b));
             }
         }
-        return q.size() ? q.top() : 0;
+        if(q.size() == 0)
+            return 0;
+        return q.top();
     }
 };
