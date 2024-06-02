@@ -11,6 +11,6 @@ public:
 
         if(pq.empty())
             return -1;
-        return pq.top().second;
+        return pq.top().second;        
     }
 };
