@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2421-maximum-number-of-pairs-in-array) |
 # Hash Table
@@ -20,12 +21,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
 # Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1741-sort-array-by-increasing-frequency) |
 # Heap (Priority Queue)
 |  |
@@ -33,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
 # Bucket Sort
 |  |
 | ------- |
@@ -50,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
 # String
 |  |
 | ------- |
@@ -59,3 +64,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
+# Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
+# Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
