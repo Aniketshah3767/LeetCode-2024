@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
+| [0680-valid-palindrome-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
 | [3379-score-of-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3379-score-of-a-string) |
 # Trie
@@ -74,3 +75,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
+# Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0680-valid-palindrome-ii) |
+# Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0680-valid-palindrome-ii) |
