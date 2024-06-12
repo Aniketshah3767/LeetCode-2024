@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0713-subarray-product-less-than-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1044-find-common-characters) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0882-peak-index-in-a-mountain-array) |
 # Matrix
 |  |
 | ------- |
