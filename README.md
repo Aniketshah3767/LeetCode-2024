@@ -128,8 +128,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+# Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0374-guess-number-higher-or-lower) |
