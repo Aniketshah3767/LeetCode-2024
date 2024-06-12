@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0680-valid-palindrome-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2572-append-characters-to-string-to-make-subsequence) |
