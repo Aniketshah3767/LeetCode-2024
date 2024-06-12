@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0713-subarray-product-less-than-k) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
@@ -125,3 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+# Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
