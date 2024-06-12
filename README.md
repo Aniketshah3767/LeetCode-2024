@@ -144,11 +144,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0404-sum-of-left-leaves) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0404-sum-of-left-leaves) |
 # Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0404-sum-of-left-leaves) |
+# Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0404-sum-of-left-leaves) |
