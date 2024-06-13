@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 # Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 # Counting Sort
 |  |
 | ------- |
