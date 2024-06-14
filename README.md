@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0096-unique-binary-search-trees) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
 # Geometry
 |  |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0404-sum-of-left-leaves) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0404-sum-of-left-leaves) |
@@ -186,4 +189,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0096-unique-binary-search-trees) |
 | [0975-range-sum-of-bst](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0975-range-sum-of-bst) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0096-unique-binary-search-trees) |
