@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0680-valid-palindrome-ii) |
 | [0853-most-profit-assigning-work](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0853-most-profit-assigning-work) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1988-minimize-maximum-pair-sum-in-array) |
