@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0713-subarray-product-less-than-k) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1014-k-closest-points-to-origin) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0680-valid-palindrome-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -202,3 +205,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0096-unique-binary-search-trees) |
+# Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0780-max-chunks-to-make-sorted) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0780-max-chunks-to-make-sorted) |
