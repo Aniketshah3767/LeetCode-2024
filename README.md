@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -280,9 +281,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
