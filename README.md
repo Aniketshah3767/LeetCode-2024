@@ -229,12 +229,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,12 +277,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
