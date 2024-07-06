@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0086-partition-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
+| [0086-partition-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0086-partition-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
