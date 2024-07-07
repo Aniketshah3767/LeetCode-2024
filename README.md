@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -335,4 +339,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
