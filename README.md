@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0948-sort-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1293-three-consecutive-odds) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
