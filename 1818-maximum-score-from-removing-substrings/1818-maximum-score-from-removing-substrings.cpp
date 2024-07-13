@@ -14,7 +14,7 @@ public:
                     st1.push(ch);
                 }
             }
-            
+
             // Collect remaining characters back into s
             s.clear();
             while (!st1.empty()) {
@@ -32,10 +32,10 @@ public:
                     st1.push(ch);
                 }
             }
-        } 
-        
-        else 
-        
+        }
+
+        else
+
         {
             // Process 'ba' pairs first
             for (char ch : s) {
@@ -46,7 +46,7 @@ public:
                     st1.push(ch);
                 }
             }
-            
+
             // Collect remaining characters back into s
             s.clear();
             while (!st1.empty()) {
