@@ -1,8 +1,6 @@
-#include <vector>
-
 class DisjointSet {
 public:
-    std::vector<int> rank, parent, size;
+    vector<int> rank, parent, size;
 
     DisjointSet(int n) {
         rank.resize(n, 0);
