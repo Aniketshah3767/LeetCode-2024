@@ -1,42 +1,36 @@
 class Solution {
 private:
-    void dfs(int node, const vector<vector<int>>& adjacencyList, vector<bool>& visited) {
-        visited[node] = true;
-        for (int neighbor : adjacencyList[node]) {
-            if (!visited[neighbor]) {
-                dfs(neighbor, adjacencyList, visited);
+    void dfs(int node, vector<int> adj[], vector<int>&vis) {
+        vis[node] = 1;
+        for (auto it : adj[node]) {
+            if (!vis[it]) {
+                dfs(it, adj, vis);
             }
         }
     }
 
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector<vector<int>> adjacencyList(n);
-
-        // Construct the adjacency list from the adjacency matrix
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+        int v = isConnected[0].size();
+        vector<int> adj[v];
+        // to change aadj matrix into list
+        for (int i = 0; i < v; i++) {
+            for (int j = 0; j < v; j++) {
                 if (isConnected[i][j] == 1 && i != j) {
-                    adjacencyList[i].push_back(j);
-                    // Optimization: Add the reverse edge only once
-                    if (j > i) {
-                        adjacencyList[j].push_back(i);
-                    }
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
                 }
             }
         }
 
-        vector<bool> visited(n, false);
+        vector<int> vis(v, 0);
         int count = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
+        for (int i = 0; i < v; i++) {
+            if (!vis[i]) {
                 count++;
-                dfs(i, adjacencyList, visited);
+                dfs(i, adj, vis);
             }
         }
-
         return count;
     }
 };
