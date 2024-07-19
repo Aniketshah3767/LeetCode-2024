@@ -1,7 +1,6 @@
 class Solution {
 private:
-    void dfs(int row, int col, vector<vector<int>>& image,
-             vector<vector<int>>& ans, int color, int inicolor, int delrow[], int delcol[]) {
+    void dfs(int row, int col, vector<vector<int>>& image, vector<vector<int>>& ans, int color, int inicolor, int delrow[], int delcol[]) {
         int n = image.size();
         int m = image[0].size();
         ans[row][col] = color;
@@ -10,7 +9,7 @@ private:
             int nrow = row + delrow[i];
             int ncol = col + delcol[i];
             if (nrow < n && ncol < m && ncol >= 0 && nrow >= 0 &&
-                image[nrow][ncol] == inicolor && ans[nrow][ncol] != color) {
+                image[nrow][ncol] == inicolor && ans[nrow][ncol] != color ) {
                 dfs(nrow, ncol, image, ans, color, inicolor,delrow, delcol);
             }
         }
