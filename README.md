@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1677-matrix-diagonal-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1036-rotting-oranges) |
+| [1677-matrix-diagonal-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2132-convert-1d-array-into-2d-array) |
