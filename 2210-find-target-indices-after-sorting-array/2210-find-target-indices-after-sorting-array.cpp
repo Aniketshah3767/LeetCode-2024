@@ -17,12 +17,11 @@ public:
             else{
                 start = mid + 1;
             }
-             mid = start + (end-start)/2;
+            mid = start + (end-start)/2;
         }
 
-        int d = mid;
         vector<int> ans;
-        for(int i = d; i < n ;i++){
+        for(int i = mid; i < n ;i++){
             if(nums[i] == target){
                 ans.push_back(i);
             }
