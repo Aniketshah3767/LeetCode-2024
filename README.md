@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
+| [0055-jump-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
