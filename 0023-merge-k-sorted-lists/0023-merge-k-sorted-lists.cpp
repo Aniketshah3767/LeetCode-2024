@@ -20,10 +20,6 @@ public:
     ListNode* mergeKListHelper(vector<ListNode*>&lists, int start, int end){
         if(start == end)
             return lists[start];
-        
-        // if(start+1 == end){
-        //     return merge(lists[start],lists[end]);
-        // }
 
         int mid = start + (end - start)/2;
         ListNode* left = mergeKListHelper(lists,start,mid);
@@ -45,8 +41,10 @@ public:
             }
             curr = curr->next;
         }
-
-        curr->next = l1 ? l1 : l2;
+        if(curr->next = l1)
+            curr->next = l1;
+        else
+            curr->next = l2;
 
         return dummy->next;
     }
