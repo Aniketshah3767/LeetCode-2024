@@ -21,9 +21,9 @@ public:
         if(start == end)
             return lists[start];
         
-        if(start+1 == end){
-            return merge(lists[start],lists[end]);
-        }
+        // if(start+1 == end){
+        //     return merge(lists[start],lists[end]);
+        // }
 
         int mid = start + (end - start)/2;
         ListNode* left = mergeKListHelper(lists,start,mid);
