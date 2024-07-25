@@ -25,7 +25,7 @@ private:
         }
 
         for(int i = low ; i<= high ;i++){
-            nums[i] = temp[i - low];
+            nums[i] = temp[i-low];
         }
     }
 
