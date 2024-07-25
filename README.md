@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -518,5 +520,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
