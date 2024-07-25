@@ -19,7 +19,7 @@ private:
             temp.push_back(nums[left]);
             left++;
         }
-        while (right <= mid) {
+        while (right <= high) {
             temp.push_back(nums[right]);
             right++;
         }
