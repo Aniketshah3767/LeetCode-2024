@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
@@ -440,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
