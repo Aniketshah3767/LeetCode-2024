@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
+| [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
 | [1677-matrix-diagonal-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1677-matrix-diagonal-sum) |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
