@@ -4,28 +4,26 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        int dp[m + 1][n + 1];
+        int dp[m][n];
 
-        for (int i = 0; i <= n; i++) {
-            dp[0][i] = 0;
-        }
-        for (int i = 0; i <= m; i++) {
-            dp[i][0] = 0;
-        }
-
-        for (int i = 1; i <= n; i++) {
-            dp[1][i] = grid[0][i - 1] + dp[1][i - 1];
-        }
-        for (int j = 1; j <= m; j++) {
-            dp[j][1] = grid[j - 1][0] + dp[j - 1][1];
-        }
-
-        for (int i = 2; i <= m; i++) {
-            for (int j = 2; j <= n; j++) {
-                dp[i][j] = grid[i - 1][j - 1] + min(dp[i][j - 1], dp[i - 1][j]);
+        for(int i =0 ; i < m ;i++){
+            for(int j = 0 ; j < n ;j++){
+                if(i == 0 && j == 0){
+                    dp[i][j] = grid[i][j];
+                }   
+                else{
+                    int up = 0;
+                    int left = 0;
+                    if(i>0) up = grid[i][j] + dp[i-1][j];
+                    else    
+                        up += 1e9;
+                    if(j>0) left = grid[i][j] + dp[i][j-1];
+                    else
+                        left += 1e9;
+                    dp[i][j] = min(up,left);
+                }
             }
         }
-
-        return dp[m][n];
+        return dp[m-1][n-1];
     }
 };
