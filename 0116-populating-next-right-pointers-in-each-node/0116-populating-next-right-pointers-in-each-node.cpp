@@ -45,3 +45,8 @@ public:
         return root;
     }
 };
+
+//node* temp = q.front()
+//t->next = temp;
+
+//if(i == n-1) t->next = NULL;
