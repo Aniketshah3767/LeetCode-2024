@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1675-magnetic-force-between-two-balls) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
