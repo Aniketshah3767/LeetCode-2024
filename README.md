@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
