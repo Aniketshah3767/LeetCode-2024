@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1675-magnetic-force-between-two-balls) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Graph
 |  |
 | ------- |
