@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0890-lemonade-change) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
