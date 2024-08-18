@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0633-sum-of-square-numbers) |
@@ -669,4 +671,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
