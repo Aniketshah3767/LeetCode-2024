@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0624-maximum-distance-in-arrays) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0394-decode-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0443-string-compression) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
 | [1652-minimum-suffix-flips](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1652-minimum-suffix-flips) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
@@ -554,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
