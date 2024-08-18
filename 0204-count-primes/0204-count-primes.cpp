@@ -16,28 +16,27 @@ public:
         //     }
         // }
         // return count;
-        if (n <= 2) return 0; // No primes less than 2
+        if (n <= 2)
+            return 0; // No primes less than 2
+        vector<bool> prime(n, true);
 
-    // Step 1: Initialize a boolean array with all entries set to true
-    std::vector<bool> prime(n, true);
-    
-    // Step 2: Mark non-prime numbers
-    for (int p = 2; p * p < n; p++) {
-        if (prime[p]) {
-            for (int i = p * p; i < n; i += p) {
-                prime[i] = false;
+        // Step 2: Mark non-prime numbers
+        for (int p = 2; p * p < n; p++) {
+            if (prime[p]) {
+                for (int i = p * p; i < n; i += p) {
+                    prime[i] = false;
+                }
             }
         }
-    }
-    
-    // Step 3: Count prime numbers
-    int count = 0;
-    for (int p = 2; p < n; p++) {
-        if (prime[p]) {
-            count++;
+
+        // Step 3: Count prime numbers
+        int count = 0;
+        for (int p = 2; p < n; p++) {
+            if (prime[p]) {
+                count++;
+            }
         }
+
+        return count;
     }
-    
-    return count;
-}
 };
