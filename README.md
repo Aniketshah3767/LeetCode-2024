@@ -513,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0633-sum-of-square-numbers) |
 | [0804-rotated-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0804-rotated-digits) |
