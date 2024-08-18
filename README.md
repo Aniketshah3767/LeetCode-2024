@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0870-magic-squares-in-grid) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0948-sort-an-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1675-magnetic-force-between-two-balls) |
