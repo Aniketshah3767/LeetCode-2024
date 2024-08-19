@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1036-rotting-oranges) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0695-max-area-of-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -376,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0870-magic-squares-in-grid) |
