@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1753-path-with-minimum-effort) |
