@@ -24,16 +24,17 @@ public:
         //??Tabluation??//
 
         int n = nums.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
-        for(int ind = n-1 ; ind >= 0 ; ind--){
-            for(int prev = ind - 1; prev >= -1 ; prev--){
-                int len = 0 + dp[ind+1][prev+1];
-                if(prev == -1 || nums[ind]>nums[prev]){
-                    len = max(len , 1 + dp[ind+1][ind+1]);
+        vector<int>dp(n,1);
+        int maxi = 1;
+
+        for(int i = 1 ; i < n ; i++){
+            for(int j = 0 ; j < i ; j++){
+                if(nums[i] > nums[j]){
+                    dp[i] = max(dp[i], 1+ dp[j]);
                 }
-                dp[ind][prev+1] = len;
             }
+            maxi = max(maxi,dp[i]);
         }
-        return dp[0][0];
+        return maxi;
     }
 };
