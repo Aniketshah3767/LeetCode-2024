@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
+| [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0870-magic-squares-in-grid](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0870-magic-squares-in-grid) |
+| [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
+| [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0948-sort-an-array) |
+| [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -525,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0443-string-compression) |
+| [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
 | [1652-minimum-suffix-flips](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1652-minimum-suffix-flips) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -650,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0804-rotated-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0804-rotated-digits) |
 | [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Graph
