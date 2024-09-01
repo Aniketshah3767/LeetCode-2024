@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0804-rotated-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0804-rotated-digits) |
 | [0967-minimum-falling-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0967-minimum-falling-path-sum) |
@@ -727,4 +729,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
