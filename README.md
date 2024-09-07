@@ -750,4 +750,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
