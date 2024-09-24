@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0063-unique-paths-ii) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0368-largest-divisible-subset) |
