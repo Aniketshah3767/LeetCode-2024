@@ -31,7 +31,7 @@ public:
         sort(values.begin(), values.end());
 
         int minDiff = INT_MAX;
-        for (size_t i = 1; i < values.size(); i++) {
+        for (int i = 1; i < values.size(); i++) {
             minDiff = min(minDiff, values[i] - values[i - 1]);
         }
 
