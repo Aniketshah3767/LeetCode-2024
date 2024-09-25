@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0624-maximum-distance-in-arrays) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
