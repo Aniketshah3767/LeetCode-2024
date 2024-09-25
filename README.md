@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1833-find-the-highest-altitude) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-rotated-digits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0804-rotated-digits) |
 | [0870-magic-squares-in-grid](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1642-water-bottles) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
 | [3055-maximum-odd-binary-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3055-maximum-odd-binary-number) |
