@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0662-maximum-width-of-binary-tree) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0662-maximum-width-of-binary-tree) |
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -746,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -796,4 +800,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2087-confirmation-rate) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
