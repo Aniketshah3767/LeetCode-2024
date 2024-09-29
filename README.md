@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1965-sum-of-digits-in-base-k) |
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
 | [3055-maximum-odd-binary-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3055-maximum-odd-binary-number) |
 ## Stack
