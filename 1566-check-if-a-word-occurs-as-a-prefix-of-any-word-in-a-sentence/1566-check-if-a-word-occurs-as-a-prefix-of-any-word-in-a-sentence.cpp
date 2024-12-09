@@ -1,21 +1,17 @@
 class Solution {
 public:
     int isPrefixOfWord(string sentence, string searchWord) {
-        int size = searchWord.size();
+    int size = searchWord.size();
+    int index = 1; // Word index starts from 1.
+    stringstream ss(sentence);
+    string word;
 
-        if(sentence.starts_with(searchWord))
-            return 1;
-        
-        for(int split = -1 , cnt = 1;;cnt++){
-            split = sentence.find(' ',split+1);
-            if(split == -1)
-                break;
-            
-            auto sb = sentence.substr(split+1,size);
-            if(sb.starts_with(searchWord))
-                return cnt+1;
-
+    while (ss >> word) { // Split sentence into words
+        if (word.substr(0, size) == searchWord) {
+            return index; // Found a match, return the word index.
         }
-        return -1;
+        index++;
     }
+    return -1; // No match found.
+}
 };
