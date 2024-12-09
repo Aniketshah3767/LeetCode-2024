@@ -498,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1652-minimum-suffix-flips](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1652-minimum-suffix-flips) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1904-second-largest-digit-in-a-string) |
@@ -834,4 +836,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0530-minimum-absolute-difference-in-bst) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
