@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1904-second-largest-digit-in-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2727-number-of-senior-citizens) |
