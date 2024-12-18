@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0594-longest-harmonious-subsequence) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
