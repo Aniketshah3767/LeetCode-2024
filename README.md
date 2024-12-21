@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0890-lemonade-change) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0633-sum-of-square-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
