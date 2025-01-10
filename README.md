@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2358-number-of-ways-to-split-array) |
 ## String
 |  |
 | ------- |
