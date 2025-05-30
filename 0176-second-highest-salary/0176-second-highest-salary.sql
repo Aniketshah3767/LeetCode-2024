@@ -5,8 +5,10 @@
 
 -- Select salary Dense_Rank() OVER (ORDER BY salary DESC()) AS desnseRank from employee
 
-with CTE as
-(SELECT salary, DENSE_RANK() OVER (ORDER BY salary DESC) AS denseRank 
-FROM employee)
+-- with CTE as
+-- (SELECT salary, DENSE_RANK() OVER (ORDER BY salary DESC) AS denseRank 
+-- FROM employee)
 
-select max(salary) as SecondHighestSalary from CTE where denseRank = 2; 
+-- select max(salary) as SecondHighestSalary from CTE where denseRank = 2; 
+
+select (select distinct salary from employee order by salary desc limit 1 offset 1) as SecondHighestSalary
