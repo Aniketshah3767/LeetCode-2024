@@ -3,6 +3,11 @@ public:
     long long zeroFilledSubarray(vector<int>& nums) {
         long long ans = 0;
         int n = nums.size();
+        //---------------Naive approach -------------
+        //cerate sub array and count zeros
+
+
+        //-------------better Appraoch----------
         // for(int i = 0 ; i < n ; i++){
         //     for(int j = i ; j < n ; j++){
         //         if(nums[j] != 0)
@@ -14,6 +19,7 @@ public:
         //     }
         // }
         // return ans;
+        ///---------------Optimal Appraoch------------
         int i = 0;
         while(i < n){
             long long count = 0;
