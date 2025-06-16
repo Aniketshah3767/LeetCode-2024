@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1950-sign-of-the-product-of-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1965-sum-of-digits-in-base-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
 | [3055-maximum-odd-binary-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3055-maximum-odd-binary-number) |
 ## Stack
