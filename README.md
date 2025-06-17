@@ -620,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0132-palindrome-partitioning-ii) |
 | [0227-basic-calculator-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0227-basic-calculator-ii) |
@@ -910,4 +911,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
