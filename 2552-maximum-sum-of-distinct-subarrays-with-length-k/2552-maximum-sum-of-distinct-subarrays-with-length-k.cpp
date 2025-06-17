@@ -42,10 +42,10 @@ public:
                 }
 
                 window_sum -= nums[start];
-                if (--map[nums[start]] == 0) {
+                if (map[nums[start]]-- == 1) {
                     map.erase(nums[start]);
                 }
-                ++start;
+                start++;
             }
         }
 
