@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -773,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0279-perfect-squares) |
