@@ -12,22 +12,25 @@ class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
         ListNode* dummy1 = new ListNode(0);
-        ListNode* dummy2 = new ListNode(0);
-        ListNode* atemp = dummy1;
-        ListNode* btemp = dummy2;
+        ListNode* dummy2 = new ListNode(1);
 
-        while(head!=NULL){
+        ListNode* ahead = dummy1;
+        ListNode* bhead = dummy2;
+
+        while(head != NULL){
             if(head->val < x){
-                atemp -> next = new ListNode(head->val);
-                atemp= atemp -> next;
+                ahead -> next = new ListNode(head->val);
+                ahead = ahead->next;
             }
             else{
-                btemp -> next = new ListNode(head->val);
-                btemp = btemp -> next;
+                bhead -> next = new ListNode(head->val);
+                bhead = bhead->next;
             }
-            head = head -> next;
+            head = head->next;
         }
-        atemp ->next = dummy2 -> next;
+
+        ahead->next = dummy2->next;
         return dummy1->next;
+        
     }
 };
