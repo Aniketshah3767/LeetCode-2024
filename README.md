@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
