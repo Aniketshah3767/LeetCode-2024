@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0198-house-robber) |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0368-largest-divisible-subset) |
@@ -762,12 +764,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
