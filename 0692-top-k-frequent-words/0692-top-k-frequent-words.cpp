@@ -1,23 +1,24 @@
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
-        vector<string>ans;
         unordered_map<string,int>mpp;
-        for(auto i : words){
-            mpp[i]++;
+        vector<string>ans;
+        for(auto it:words){
+            mpp[it]++;
         }
 
-        // priority_queue<pair<int, string>, vector<pair<int, string>>, greater<pair<int, string>>> pq;
-        priority_queue<pair<int, string>> pq;
-        for(auto i = mpp.begin() ; i != mpp.end() ;i++){
+        priority_queue<pair<int,string>>pq;
+        for(auto i = mpp.begin() ; i != mpp.end() ; i++){
             pq.push({-i->second , i->first});
+        // for(auto it:mpp){
 
+        //     pq.push({it.second, it.first});
             if(pq.size() > k){
                 pq.pop();
             }
         }
 
-        while(!pq.empty()){
+        while(k--){
             ans.insert(ans.begin(),pq.top().second);
             pq.pop();
         }
