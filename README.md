@@ -643,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0205-isomorphic-strings) |
@@ -785,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0055-jump-game) |
@@ -952,4 +954,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
