@@ -10,9 +10,11 @@ private:
         // include
         for (int i = ind; i < nums.size(); ++i) {
             // Skip duplicates
-            if (i > ind && nums[i] == nums[i - 1]) continue;
+            if (i > ind && nums[i] == nums[i - 1]) 
+                continue;
 
-            if (nums[i] > target) break;
+            if (nums[i] > target) 
+                break;
 
             temp.push_back(nums[i]);
             solve(ans, temp, i + 1, target - nums[i], nums);  
