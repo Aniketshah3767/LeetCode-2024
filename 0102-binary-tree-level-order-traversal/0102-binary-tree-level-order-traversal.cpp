@@ -15,26 +15,25 @@ public:
         vector<vector<int>>ans;
         if(!root)
             return ans;
+        
         queue<TreeNode*>q;
         q.push(root);
-
+        
         while(!q.empty()){
             int n = q.size();
-            vector<int>demo;
+            vector<int>temp;
             while(n--){
                 auto node = q.front();
                 q.pop();
-                demo.push_back(node->val);
+                temp.push_back(node->val);
 
                 if(node->left)
                     q.push(node->left);
                 if(node->right)
                     q.push(node->right);
             }
-            ans.push_back(demo);
+            ans.push_back(temp);
         }
-        
-
         return ans;
     }
 };
