@@ -708,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0227-basic-calculator-ii) |
@@ -816,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0120-triangle) |
@@ -994,4 +996,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
