@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -859,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -985,4 +987,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
