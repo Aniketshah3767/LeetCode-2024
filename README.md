@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0041-first-missing-positive) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0128-longest-consecutive-sequence) |
@@ -986,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0051-n-queens) |
