@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0506-relative-ranks) |
@@ -844,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
