@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
 | [3055-maximum-odd-binary-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3055-maximum-odd-binary-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
 | ------- |
