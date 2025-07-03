@@ -528,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -743,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
 | [3055-maximum-odd-binary-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -773,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -888,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
