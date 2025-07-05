@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
+| [1130-last-stone-weight-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1130-last-stone-weight-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
+| [1130-last-stone-weight-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1130-last-stone-weight-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1632-number-of-good-ways-to-split-a-string) |
