@@ -10,8 +10,7 @@ public:
         int temp1 = 0;
         for(auto it : mpp){
             if(it.second == it.first){
-                temp1 = it.first;
-                maxi = max(maxi,temp1);
+                maxi = max(maxi,it.first);
             }
         }
         return maxi != 0 ? maxi : -1;
