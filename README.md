@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0162-find-peak-element) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0383-ransom-note) |
@@ -848,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0198-house-robber) |
@@ -1013,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0808-number-of-matching-subsequences) |
 ## Backtracking
@@ -1029,4 +1034,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
