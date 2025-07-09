@@ -698,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0808-number-of-matching-subsequences) |
+| [0886-score-of-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
@@ -768,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0886-score-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1802-number-of-students-unable-to-eat-lunch) |
