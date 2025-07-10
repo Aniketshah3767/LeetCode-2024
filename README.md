@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2573-remove-nodes-from-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -572,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1037,4 +1042,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
