@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1675-magnetic-force-between-two-balls) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -712,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1652-minimum-suffix-flips](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1652-minimum-suffix-flips) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1777-determine-if-two-strings-are-close) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
