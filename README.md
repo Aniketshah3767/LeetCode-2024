@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0392-is-subsequence) |
@@ -745,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0263-ugly-number) |
