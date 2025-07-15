@@ -7,16 +7,15 @@ public:
             if(lo =='a' || lo =='e' || lo =='i' || lo == 'o' || lo == 'u'){
                 count1++;
             }
-            else if(lo == '$' || lo == '@' || lo == '(' || lo == ')' || lo == '{' || lo == '}' || lo == '[' || lo == ']' || lo == '*' || lo == '#' || lo == '!'){
-                return false;
-                break;
-            }
             else if(isalpha(lo)){
                 count2++;
             }
+            else if(!isdigit(lo)){
+                return false;
+                break;
+            }
+            
         }
-
-        // return count1 + count2 >= 3 && count1 > 0 && count2>0;
         return word.size() >= 3 && count1 > 0 && count2>0; 
     }
 };
