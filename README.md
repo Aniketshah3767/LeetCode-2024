@@ -816,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1632-number-of-good-ways-to-split-a-string) |
