@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0055-jump-game) |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0215-kth-largest-element-in-an-array) |
@@ -701,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0139-word-break) |
