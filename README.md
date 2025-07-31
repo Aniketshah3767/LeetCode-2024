@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2159-two-out-of-three](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2159-two-out-of-three) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2232-adding-spaces-to-a-string) |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1904-second-largest-digit-in-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2159-two-out-of-three](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2159-two-out-of-three) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0861-flipping-an-image) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2159-two-out-of-three](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/2159-two-out-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
