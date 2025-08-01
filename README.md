@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0396-rotate-function) |
+| [0406-queue-reconstruction-by-height](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0416-partition-equal-subset-sum) |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0368-largest-divisible-subset) |
+| [0406-queue-reconstruction-by-height](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0506-relative-ranks) |
@@ -995,10 +997,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aniketshah3767/LeetCode-2024/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Database
 |  |
